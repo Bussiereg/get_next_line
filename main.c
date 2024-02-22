@@ -21,7 +21,7 @@ int	main(int argc, char **argv)
 	i = 0;
 	if (argc != 2)
 		write(1, "Error\n", 6);
-	fd0 = open("test.txt", O_RDONLY);
+	fd0 = open("test_file/test.txt", O_RDONLY);
 	if (fd0 == -1)
 		write(1, "open() failed", 13);
 	while (i < atoi(argv[1]))
