@@ -37,7 +37,7 @@ The `get_next_line` function reads a line from a file descriptor until a newline
 
 ### Installation
 
-To use the `get_next_line` function in your project, simply copy the source files (`get_next_line.c` and `get_next_line.h`) into your project directory. You can then include the header file `get_next_line.h` in your source files and call the `get_next_line` function as needed.
+To use the `get_next_line` function: git clone git@github.com:Bussiereg/get_next_line.git
 
 ## Usage
 
