@@ -12,10 +12,6 @@ This is the first complex function we had to implement so far.
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Return Value](#return-value)
-- [Example](#example)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
