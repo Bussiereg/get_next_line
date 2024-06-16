@@ -33,7 +33,10 @@ The `get_next_line` function reads a line from a file descriptor until a newline
 
 ### Installation
 
-To use the `get_next_line` function: git clone git@github.com:Bussiereg/get_next_line.git
+To use the `get_next_line` function: 
+```c
+git clone git@github.com:Bussiereg/get_next_line.git
+```
 
 ## Usage
 
@@ -41,3 +44,4 @@ The `get_next_line` function has the following prototype:
 
 ```c
 int get_next_line(int fd, char **line);
+```
